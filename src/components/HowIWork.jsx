@@ -3,7 +3,7 @@ import { FadeIn, SectionTitle } from './AnimatedSection'
 const items = [
   {
     title: 'Trigger-Based Prospecting',
-    body: 'At Samsara I tier a book of 150 to 250 accounts down to a focused weekly call block driven by active buying signals. The same discipline maps to allwhere\u2019s ICP: new Head of People / IT / Finance hires, funding rounds, headcount ramps, new international offices, acquisitions, RIFs and reorgs. I lead with the business change, not a product pitch. ~55% of pipeline self-sourced.',
+    body: 'At Samsara I tier a book of 150 to 250 accounts down to a focused weekly call block driven by active buying signals: new Operations, Fleet, or Safety leadership hires, recent incidents or insurance premium spikes, fleet or facility expansions, M&A, DOT and compliance events. I lead with the business change, not a product pitch. ~55% of pipeline self-sourced. Same discipline, applied against any ICP.',
   },
   {
     title: 'Multi-Stakeholder Threading',
