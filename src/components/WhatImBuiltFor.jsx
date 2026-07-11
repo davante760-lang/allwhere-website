@@ -3,20 +3,20 @@ import { FadeIn, SectionTitle } from './AnimatedSection'
 
 const cards = [
   {
-    title: 'The Legacy Replacement Motion',
-    body: 'Helping buyers rethink the cost of staying with manual workflows, fragmented data, and legacy systems that "technically still work." I close on the cost of inaction, not the cost of switching.',
+    title: 'The Consolidation Play',
+    body: 'Selling into buyers stitching together three, four, five vendors to run one workflow \u2014 procurement here, MDM there, shipping in a spreadsheet, retrieval in Slack DMs, invoicing across four contracts. I close on the compounding cost of the stitch and the operational risk of the seams, not the cost of switching.',
   },
   {
-    title: 'Operations-Led Buying Committees',
-    body: 'Multi-stakeholder mid-market deals at $100K\u2013$250K+ ACV with 4\u20136 month cycles. Ops VP, Fleet or Operations Manager, Safety Director, and the GM or CFO who signs off. Real buying committees, not transactional sales.',
+    title: 'Cross-Functional Buying Committees',
+    body: 'Platform buys that don\u2019t sit with one team. IT owns security and control, People Ops owns employee experience, Finance owns spend and vendor consolidation, the COO or CFO owns the flywheel. Multi-stakeholder deals across four to six stakeholders on four to six month cycles \u2014 the exact motion I\u2019ve run for the last three years.',
   },
   {
-    title: 'Operationally Heavy Verticals',
-    body: 'Food &amp; beverage distribution, wholesale, fleet, field services, insurance. The physical economy. Industries I\u2019ve actually closed in at Samsara, running on manual workflows, fragmented data, and operational risk a CFO can quantify in dollars.',
+    title: 'Companies Scaling Distributed Operations',
+    body: 'Growth-stage and mid-market companies where headcount is outpacing what IT and People Ops can absorb manually. Onboarding taking weeks instead of days, assets going untracked, offboarding recovery falling through the cracks. The universal operational pain of running a company across time zones and geographies \u2014 which is exactly the pain allwhere solves.',
   },
   {
     title: 'Playbook-Builder Culture',
-    body: 'Environments where the vertical motion is still being built and leadership values commercial judgment over raw activity volume. I want to help shape how the org sells in a vertical, not just execute a defined script.',
+    body: 'Environments where the segment motion is still being built and leadership values commercial judgment over raw activity volume. I want to help shape how the org sells into a segment or geography, not execute a defined script. That\u2019s what earned me back-to-back President\u2019s Club at Samsara \u2014 I built the vertical playbooks, I didn\u2019t inherit them.',
   },
 ]
 
