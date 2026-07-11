@@ -7,6 +7,7 @@ import WhatImBuiltFor from './components/WhatImBuiltFor'
 import WhyAllwhere from './components/WhyAllwhere'
 import HowIWork from './components/HowIWork'
 import FounderSignal from './components/FounderSignal'
+import MarqueeDeals from './components/MarqueeDeals'
 import DealStory from './components/DealStory'
 import WhatYoullGet from './components/WhatYoullGet'
 import AboutDave from './components/AboutDave'
@@ -27,6 +28,7 @@ export default function App() {
       <WhyAllwhere />
       <HowIWork />
       <FounderSignal />
+      <MarqueeDeals />
       <DealStory />
       <WhatYoullGet />
       <AboutDave />
