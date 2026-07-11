@@ -279,6 +279,53 @@ export default function App() {
           </div>
         </section>
 
+        <section className="company-interest section-wrap" aria-labelledby="allwhere-interest-title">
+          <header className="company-interest-heading">
+            <p className="eyebrow">Why allwhere</p>
+            <h2 id="allwhere-interest-title">What piqued my interest with allwhere.</h2>
+            <p>
+              allwhere sits at the intersection of the work I’ve done best: operational complexity,
+              connected hardware, fragmented workflows, and a business case that matters to both the
+              operator and the CFO.
+            </p>
+          </header>
+
+          <div className="interest-grid">
+            <article>
+              <span>01</span>
+              <h3>A problem with real operational weight.</h3>
+              <p>
+                This is more than another system of record. allwhere combines software, procurement,
+                logistics, device data, and lifecycle services to replace work still spread across
+                spreadsheets, vendors, shipping portals, and manual handoffs.
+              </p>
+            </article>
+            <article>
+              <span>02</span>
+              <h3>Credibility without a finished playbook.</h3>
+              <p>
+                The DESCOvery backing, recognizable customers, and integrations with Jamf and Iru create
+                real market credibility. The company is still early enough for an AE to help sharpen the
+                vertical motion, expansion strategy, and way value is quantified.
+              </p>
+            </article>
+            <article>
+              <span>03</span>
+              <h3>A role built for commercial judgment.</h3>
+              <p>
+                Sourcing net-new business, expanding an existing book, partnering with Customer Success
+                and Operations, and developing thought leadership is the kind of builder role I want—not
+                simply executing a mature script.
+              </p>
+            </article>
+          </div>
+
+          <blockquote>
+            “I see a chance to bring my experience selling operational SaaS and connected hardware into a
+            company where I can carry a number and help shape how the market is won.”
+          </blockquote>
+        </section>
+
         <section className="section-wrap capability-block">
           <p className="eyebrow">Capabilities & tools</p>
           <div className="capabilities">
