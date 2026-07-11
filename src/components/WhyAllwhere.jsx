@@ -10,8 +10,8 @@ const reasons = [
     body: 'DESCOvery backing, recognizable customers, and integrations with Jamf and Iru create market credibility. The company is still early enough for an AE to help sharpen the vertical motion, expansion strategy, and the way value is quantified — more compelling to me than inheriting a completely mature playbook.',
   },
   {
-    title: 'A Role Built for Commercial Judgment',
-    body: 'The mix of sourcing net-new business, expanding an existing book, partnering with Customer Success and Operations, and developing thought leadership is the kind of builder role I want. It rewards finding the signal, building the committee, and creating a credible reason to change — not simply executing someone else’s script.',
+    title: 'A Net-New Role Built for Commercial Judgment',
+    body: 'The opportunity to build net-new pipeline from the ground up is the kind of role I want. It rewards finding the right accounts and active buying signals, creating relevant outbound, running disciplined discovery, building the full buying committee, and turning operational pain into a credible reason to change — then carrying that deal all the way through close.',
   },
 ]
 
