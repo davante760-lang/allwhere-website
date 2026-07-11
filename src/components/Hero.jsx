@@ -23,7 +23,7 @@ export default function Hero() {
           transition={{ duration: 0.5, delay: 0.2 }}
           className="block text-[11px] uppercase tracking-[0.2em] font-medium text-accent mb-6"
         >
-          Mid-Market AE · Legacy Replacement · Operationally Heavy Verticals
+          Mid-Market AE · Consolidation Sales · Distributed Ops
         </motion.span>
 
         <ElectricText text="Dave Alexander" className="flex justify-center mb-6" />
@@ -34,12 +34,12 @@ export default function Hero() {
           transition={{ duration: 0.6, delay: 0.8 }}
           className="text-text-secondary text-[14.5px] leading-[1.75] max-w-[620px] mx-auto"
         >
-          Mid-market AE with 8+ years in B2B SaaS, currently at Samsara selling into
-          operationally heavy verticals — food &amp; beverage distribution, wholesale, fleet,
-          field services. Two-time President's Club, 118% avg attainment against a $900K quota,
-          $84K average ACV with a $250K largest win. I run legacy-replacement motions where the real sale is reframing
-          the cost of "the way we've always done it" — manual workflows, fragmented data, systems
-          that technically still work — into a business case the operator and the CFO both sign off on.
+          Mid-market AE with 8+ years in B2B SaaS. Currently at Samsara, running the sales motion
+          behind two consecutive President's Club years. 118% average quota attainment against a $900K number.
+          $84K average ACV, $250K largest win. I sell into buyers replacing fragmented tooling,
+          manual workflows, and vendor sprawl with a single platform. The real sale is reframing
+          the cost of doing it the old way into a business case the operator lives every day and
+          the CFO can sign off on.
         </motion.p>
       </div>
 

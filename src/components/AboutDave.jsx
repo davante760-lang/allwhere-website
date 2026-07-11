@@ -38,8 +38,7 @@ export default function AboutDave() {
               <p>
                 Based in North Richland Hills, TX. 8+ years in B2B SaaS. Started in insurance
                 technology at EZLynx and Applied Systems, then moved to fleet IoT at Samsara, where
-                I'm currently a Mid-Market AE and two-time President's Club winner. Somewhere in
-                the middle of that, built and sold an independent insurance agency on the side.
+                I'm currently a Mid-Market AE and two-time President's Club winner.
               </p>
             </FadeIn>
             <FadeIn delay={0.2}>

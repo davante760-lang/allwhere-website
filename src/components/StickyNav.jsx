@@ -11,7 +11,7 @@ const navLinks = [
 ]
 
 // Accent for logo square + CTA. Hardcoded cobalt here as the first
-// visible adoption of the new aesthetic direction — when the rest of
+// visible adoption of the new aesthetic direction. When the rest of
 // the site adopts cobalt, migrate this to a CSS variable.
 const COBALT = '#3454ff'
 const COBALT_BRIGHT = '#5470ff'
@@ -84,7 +84,7 @@ export default function StickyNav() {
           ))}
         </div>
 
-        {/* CTA — primary action on this personal-brand page is the resume section */}
+        {/* CTA. Primary action on this personal-brand page is the resume section. */}
         <button
           onClick={() => scrollTo('resume')}
           className="inline-flex items-center gap-1.5 rounded-full text-[13px] font-medium text-white pl-4 pr-3.5 py-2 ml-1 sm:ml-2 transition-all duration-200"

@@ -4,15 +4,15 @@ import { FadeIn, SectionTitle } from './AnimatedSection'
 const cards = [
   {
     title: 'Self-Sourced Pipeline',
-    body: 'I don\u2019t wait for inbound. ~55% of my pipeline is self-sourced through targeted outbound. Top 5 regionally in pipeline generation at Samsara. Same muscle, applied against allwhere\u2019s ICP \u2014 growth-stage and mid-market companies scaling distributed teams faster than IT and People Ops can absorb.',
+    body: 'I don\u2019t wait for inbound. ~55% of my pipeline is self-sourced through targeted outbound. Top 5 regionally in pipeline generation at Samsara. Same muscle, applied against allwhere\u2019s ICP: growth-stage and mid-market companies scaling distributed teams faster than IT and People Ops can absorb.',
   },
   {
     title: 'Platform-Buyer Fluency',
-    body: 'Deep understanding of how ops-heavy buyers evaluate a platform purchase. IT Directors, Heads of People Ops, Finance and procurement, and the COO or CFO who signs off. Teams running on manual workflows, fragmented tooling, and vendor sprawl that "technically still works" \u2014 which is exactly what allwhere replaces.',
+    body: 'Three years of closing platform buys at Samsara means I know how ops-heavy buyers evaluate a purchase. The job titles at allwhere are different (IT Directors, Heads of People Ops, Finance and procurement, COO/CFO). The evaluation pattern is the same. Teams running on manual workflows, fragmented tooling, and vendor sprawl that "technically still works."',
   },
   {
     title: 'Executive Business Cases',
-    body: 'The ability to move beyond a technical or operator champion, reach the economic buyer, and build the business case that holds up in the CFO\u2019s office. Hours back for IT, dollars recovered on offboarding, spend consolidated across procurement contracts \u2014 quantified outcomes, not feature lists.',
+    body: 'At Samsara I have closed $250K deals with CFO signoff by building the business case that holds up in the CFO\u2019s office. Same discipline maps to allwhere\u2019s value drivers. Hours back for IT, dollars recovered on retrieval, spend consolidated across procurement contracts. Quantified outcomes, not feature lists.',
   },
   {
     title: 'Forecast Discipline',

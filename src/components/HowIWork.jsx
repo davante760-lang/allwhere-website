@@ -3,11 +3,11 @@ import { FadeIn, SectionTitle } from './AnimatedSection'
 const items = [
   {
     title: 'Trigger-Based Prospecting',
-    body: 'I tier a book of 150\u2013250 accounts down to a focused weekly call block driven by active signals: new Head of People / IT / Finance hires, funding rounds, headcount ramps, new international offices, acquisitions, RIFs and reorgs (offboarding waves), any operational event that changes what the buyer wakes up thinking about. I lead with the business change, not a product pitch. ~55% of pipeline self-sourced.',
+    body: 'At Samsara I tier a book of 150 to 250 accounts down to a focused weekly call block driven by active buying signals. The same discipline maps to allwhere\u2019s ICP: new Head of People / IT / Finance hires, funding rounds, headcount ramps, new international offices, acquisitions, RIFs and reorgs. I lead with the business change, not a product pitch. ~55% of pipeline self-sourced.',
   },
   {
     title: 'Multi-Stakeholder Threading',
-    body: 'I run simultaneous top-down (CFO, COO) and bottom-up (IT Director, Head of People Ops, Finance / procurement) threads. One champion is a single point of failure. I build committees around a shared business case anchored in operational pain the day-to-day owner already feels and a dollar impact the CFO can sign off on \u2014 hours back, dollars recovered, vendor spend consolidated.',
+    body: 'Every complex deal I have closed at Samsara ran on simultaneous top-down (CFO, COO) and bottom-up (operator, IT, Finance) threads. One champion is a single point of failure. I build committees around a shared business case anchored in operational pain the day-to-day owner already feels and a dollar impact the CFO can sign off on. At allwhere the value drivers translate cleanly: hours back for IT, dollars recovered on retrieval, vendor spend consolidated across procurement.',
   },
   {
     title: 'MEDDPICC Discipline',
@@ -15,7 +15,7 @@ const items = [
   },
   {
     title: 'Segment Playbooks',
-    body: 'I don\u2019t run a horizontal pitch into a specialized buyer. At Samsara I built net-new segment playbooks that grew my average deal size to $84K through multi-product attach and executive-aligned business cases. The same discipline works for any platform buyer whose problem is fragmented tooling, un-owned workflows, and vendor sprawl \u2014 build the segment motion, quantify the CFO business case, close on the cost of not solving it.',
+    body: 'I don\u2019t run a horizontal pitch into a specialized buyer. At Samsara I built net-new segment playbooks that grew my average deal size to $84K through multi-product attach and executive-aligned business cases. The same discipline works for any platform buyer whose problem is fragmented tooling, un-owned workflows, and vendor sprawl. Build the segment motion, quantify the CFO business case, close on the cost of not solving it.',
   },
 ]
 

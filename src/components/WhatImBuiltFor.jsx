@@ -4,19 +4,19 @@ import { FadeIn, SectionTitle } from './AnimatedSection'
 const cards = [
   {
     title: 'The Consolidation Play',
-    body: 'Selling into buyers stitching together three, four, five vendors to run one workflow \u2014 procurement here, MDM there, shipping in a spreadsheet, retrieval in Slack DMs, invoicing across four contracts. I close on the compounding cost of the stitch and the operational risk of the seams, not the cost of switching.',
+    body: 'My strongest deals at Samsara have come from buyers stitching together three, four, five vendors to run one workflow. Different tools, no single source of truth, manual handoffs between them. I win by closing on the compounding cost of the stitch and the operational risk of the seams, not the cost of switching. Same motion that wins an allwhere deal.',
   },
   {
     title: 'Cross-Functional Buying Committees',
-    body: 'Platform buys that don\u2019t sit with one team. IT owns security and control, People Ops owns employee experience, Finance owns spend and vendor consolidation, the COO or CFO owns the flywheel. Multi-stakeholder deals across four to six stakeholders on four to six month cycles \u2014 the exact motion I\u2019ve run for the last three years.',
+    body: 'Every $130K+ deal I closed at Samsara moved through four to six stakeholders on four to six month cycles. Operator owns the day-to-day risk, IT owns security and integration, Finance owns spend, the CFO signs off. Different job titles at allwhere (IT Director, Head of People Ops, Finance, COO/CFO). Same motion. Multi-stakeholder buying committees are my home turf.',
   },
   {
     title: 'Companies Scaling Distributed Operations',
-    body: 'Growth-stage and mid-market companies where headcount is outpacing what IT and People Ops can absorb manually. Onboarding taking weeks instead of days, assets going untracked, offboarding recovery falling through the cracks. The universal operational pain of running a company across time zones and geographies \u2014 which is exactly the pain allwhere solves.',
+    body: 'The mid-market buyers I have closed at Samsara share a pattern with the ones allwhere serves. Headcount outpacing what internal teams can absorb manually. Onboarding taking weeks instead of days. Assets going untracked. Recovery falling through the cracks. Different pain surface, same operational reality. That is why the muscle transfers.',
   },
   {
     title: 'Playbook-Builder Culture',
-    body: 'Environments where the segment motion is still being built and leadership values commercial judgment over raw activity volume. I want to help shape how the org sells into a segment or geography, not execute a defined script. That\u2019s what earned me back-to-back President\u2019s Club at Samsara \u2014 I built the vertical playbooks, I didn\u2019t inherit them.',
+    body: 'Environments where the segment motion is still being built and leadership values commercial judgment over raw activity volume. I want to help shape how the org sells into a segment or geography, not execute a defined script. That\u2019s what earned me back-to-back President\u2019s Club at Samsara. I built the vertical playbooks. I didn\u2019t inherit them.',
   },
 ]
 

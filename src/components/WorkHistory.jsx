@@ -6,21 +6,21 @@ const companies = [
     name: 'Samsara',
     logo: '/logo-samsara.png',
     invertLogo: true,
-    role: 'Account Executive, Mid-Market (Feb 2023\u2013Present)',
+    role: 'Account Executive, Mid-Market (Feb 2023 to Present)',
     takeaway:
-      '118% avg attainment against a $900K quota across FY24 and FY25, currently pacing 103% in FY26. Grew average deal size to $84K through multi-product attach and executive-aligned business cases. $4\u20135M in qualified pipeline annually, ~55% self-sourced. $250K competitive displacement. Two-time President\u2019s Club, top 10% of the Mid-Market sales org.',
+      '118% avg attainment against a $900K quota across FY24 and FY25, currently pacing 103% in FY26. Grew average deal size to $84K through multi-product attach and executive-aligned business cases. $4 to $5M in qualified pipeline annually, ~55% self-sourced. $250K competitive displacement. Two-time President\u2019s Club, top 10% of the Mid-Market sales org.',
   },
   {
     name: 'Applied Systems',
     logo: '/logo-applied.png',
-    role: 'Account Executive, Mid-Market (Jun 2021\u2013Feb 2023)',
+    role: 'Account Executive, Mid-Market (Jun 2021 to Feb 2023)',
     takeaway:
       '105% against an $800K annual quota, Top 3 on a team of 8 in a year where ~50% hit number. Closed 18 net-new AMS replacement deals on 3.5\u00d7 pipeline coverage by leading full-cycle discovery, stakeholder mapping, and ROI business cases across agency principals and ops leaders.',
   },
   {
     name: 'EZLynx',
     logo: '/logo-ezlynx.png',
-    role: 'AE, SMB \u2192 BDR (Nov 2017\u2013Jun 2021)',
+    role: 'BDR to SMB AE (Nov 2017 to Jun 2021)',
     takeaway:
       'Built outbound discipline from the ground up. As BDR: $400K+ qualified pipeline in a single quarter, ~25% connect-to-meeting lift, ~20% lead-to-opp lift after rolling out a lead scoring framework. Promoted to SMB AE and closed the largest full-suite AMS replacement on the SMB team that year ($42K).',
   },

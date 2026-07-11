@@ -14,13 +14,6 @@ export default function QuarterlyAttainment() {
         <FadeIn>
           <SectionTitle eyebrow="PERFORMANCE DETAIL" title="Quarterly Attainment by FY" />
         </FadeIn>
-        <FadeIn delay={0.05}>
-          <p className="text-[14.5px] leading-[1.75] text-text-secondary max-w-[720px] mb-7">
-            Recruiters ask “walk me through your years quarter by quarter” to test whether the résumé
-            math holds. FY23 finished at 101% while ramping; FY24 at 116%; FY25 at 120% — a 118%
-            two-year average. FY26 is currently pacing at 103%.
-          </p>
-        </FadeIn>
         <FadeIn delay={0.1}>
           <div className="overflow-x-auto rounded-xl border border-border bg-surface-1" tabIndex="0">
             <table className="w-full min-w-[700px] border-collapse text-[13px]">
