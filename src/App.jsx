@@ -5,6 +5,13 @@ const stats = [
   ['$250K', 'largest competitive win'],
 ]
 
+const quarterlyAttainment = [
+  { year: 'FY23', note: 'ramp', quarters: ['65%', '85%', '118%', '136%'], fullYear: '101%' },
+  { year: 'FY24', note: 'year 2', quarters: ['100%', '108%', '122%', '134%'], fullYear: '116%' },
+  { year: 'FY25', note: 'year 3', quarters: ['105%', '110%', '118%', '147%'], fullYear: '120%' },
+  { year: 'FY26', note: 'in progress', quarters: ['108%', '98%', '103% fcst', '103% fcst'], fullYear: '103% pace' },
+]
+
 const roles = [
   {
     company: 'Samsara',
@@ -156,6 +163,50 @@ export default function App() {
           {stats.map(([value, label]) => (
             <div key={label}><strong>{value}</strong><span>{label}</span></div>
           ))}
+        </section>
+
+        <section className="attainment section-wrap" aria-labelledby="attainment-title">
+          <header className="attainment-heading">
+            <div>
+              <p className="eyebrow">Performance detail</p>
+              <h2 id="attainment-title">Quarterly attainment by fiscal year.</h2>
+            </div>
+            <p>
+              A quarter-by-quarter view of the résumé math: FY23 ramp at 101%, FY24 at 116%,
+              and FY25 at 120%. FY24 and FY25 average to 118%, with FY26 currently pacing at 103%.
+            </p>
+          </header>
+
+          <div className="attainment-summary" aria-label="Two-year attainment average">
+            <span>FY24 + FY25</span>
+            <strong>118%</strong>
+            <small>average attainment</small>
+          </div>
+
+          <div className="table-scroll" tabIndex="0" aria-label="Quarterly attainment table, horizontally scrollable on small screens">
+            <table>
+              <caption>Quarterly quota attainment from FY23 through FY26</caption>
+              <thead>
+                <tr>
+                  <th scope="col">Fiscal year</th>
+                  <th scope="col">Q1</th>
+                  <th scope="col">Q2</th>
+                  <th scope="col">Q3</th>
+                  <th scope="col">Q4</th>
+                  <th scope="col">Full year</th>
+                </tr>
+              </thead>
+              <tbody>
+                {quarterlyAttainment.map((row) => (
+                  <tr key={row.year}>
+                    <th scope="row"><strong>{row.year}</strong><span>{row.note}</span></th>
+                    {row.quarters.map((quarter, index) => <td key={`${row.year}-${index}`}>{quarter}</td>)}
+                    <td className="full-year">{row.fullYear}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
         </section>
 
         <section className="section-wrap section-block" id="experience">
