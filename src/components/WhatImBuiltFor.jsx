@@ -12,7 +12,7 @@ const cards = [
   },
   {
     title: 'Companies Scaling Distributed Operations',
-    body: 'The mid-market buyers I have closed at Samsara share a pattern with the ones allwhere serves. Headcount outpacing what internal teams can absorb manually. Onboarding taking weeks instead of days. Assets going untracked. Recovery falling through the cracks. Different pain surface, same operational reality. That is why the muscle transfers.',
+    body: 'The mid-market buyers I have closed at Samsara share a pattern with the ones allwhere serves. Headcount outpacing what internal teams can absorb manually. Data trapped in spreadsheets and disconnected tools. Assets going untracked. Asset recovery falling through the cracks. Different pain surface, same operational reality. That is why the muscle transfers.',
   },
   {
     title: 'Playbook-Builder Culture',
