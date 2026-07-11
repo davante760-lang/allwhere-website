@@ -6,7 +6,7 @@ import { useEffect, useState } from 'react'
 const navLinks = [
   { id: 'experience',     label: 'Experience' },
   { id: 'how-i-sell',     label: 'How I sell' },
-  { id: 'deal-spotlight', label: 'Deal story' },
+  { id: 'marquee-deals', label: 'Deal story' },
   { id: 'about',          label: 'About' },
 ]
 

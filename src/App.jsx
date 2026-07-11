@@ -6,9 +6,7 @@ import WorkHistory from './components/WorkHistory'
 import WhatImBuiltFor from './components/WhatImBuiltFor'
 import WhyAllwhere from './components/WhyAllwhere'
 import HowIWork from './components/HowIWork'
-import FounderSignal from './components/FounderSignal'
 import MarqueeDeals from './components/MarqueeDeals'
-import DealStory from './components/DealStory'
 import WhatYoullGet from './components/WhatYoullGet'
 import AboutDave from './components/AboutDave'
 import ResumeDownload from './components/ResumeDownload'
@@ -27,9 +25,7 @@ export default function App() {
       <WhatImBuiltFor />
       <WhyAllwhere />
       <HowIWork />
-      <FounderSignal />
       <MarqueeDeals />
-      <DealStory />
       <WhatYoullGet />
       <AboutDave />
       <ResumeDownload />
