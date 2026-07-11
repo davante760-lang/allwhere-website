@@ -9,6 +9,7 @@ const deals = [
     cycle: '6-month sales cycle',
     logo: '/jde-concrete.png',
     logoClass: 'max-h-[82px] max-w-[210px]',
+    url: 'https://jde-concrete.com/',
   },
   {
     name: 'Excelsior Ambulance Service',
@@ -17,6 +18,7 @@ const deals = [
     cycle: '4-month sales cycle',
     logo: '/excelsior-ambulance.webp',
     logoClass: 'max-h-[76px] max-w-[240px]',
+    url: 'https://www.excelsioramb.com/',
   },
   {
     name: 'Dietz & Watson',
@@ -25,6 +27,7 @@ const deals = [
     cycle: '65-day sales cycle',
     logo: '/dietz-watson.png',
     logoClass: 'max-h-[98px] max-w-[210px]',
+    url: 'https://www.dietzandwatson.com/',
   },
 ]
 
@@ -52,14 +55,20 @@ export default function MarqueeDeals() {
                 transition={{ duration: 0.2 }}
                 className="bg-surface-1 border border-border rounded-xl p-5 h-full flex flex-col"
               >
-                <div className="h-[126px] rounded-lg bg-surface-2 border border-border-light flex items-center justify-center px-4 mb-5 overflow-hidden">
+                <a
+                  href={deal.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label={`${deal.name} website (opens in a new tab)`}
+                  className="group h-[126px] rounded-lg bg-surface-2 border border-border-light flex items-center justify-center px-4 mb-5 overflow-hidden transition-all duration-200 hover:border-accent/40 hover:bg-surface-2/70 focus:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-surface-1"
+                >
                   <img
                     src={deal.logo}
                     alt={`${deal.name} logo`}
-                    className={`w-auto object-contain ${deal.logoClass}`}
+                    className={`w-auto object-contain transition-transform duration-200 group-hover:scale-[1.03] ${deal.logoClass}`}
                     loading="lazy"
                   />
-                </div>
+                </a>
                 <h3 className="font-heading text-[15px] font-semibold text-text-primary tracking-[-0.01em] mb-1.5">
                   {deal.name}
                 </h3>
